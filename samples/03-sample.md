@@ -17,7 +17,7 @@ Community post viewers, marketing campaign recipients
 During writing, users were given a video-based draft of this guide; the video guide didn't work because it wasn't agile enough to keep up with updates to the Cloud Compiler. After publishing, we use this page as the main quickstart guide for the Cloud Compiler, and if the Cloud Compiler is updated, the updates will be reflected here. 
 
 **How I measured success (and outcome):**  
-Great decrease in questions about how to use and the purpose of the Cloud Compiler. Time spent on doing anything other than answering Cloud Compiler questions.
+Time spent on doing anything other than answering Cloud Compiler questions. Great decrease in questions about how to use and the purpose of the Cloud Compiler.
 
 **Anything else to know:**  
 This does not live on the documentation site because community posts are less formal and have even more agility than pages on the documentation site.
