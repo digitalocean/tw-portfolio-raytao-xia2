@@ -21,4 +21,4 @@ Great decrease in questions about how to use and the purpose of the Cloud Compil
 
 **Anything else to know:**  
 This does not live on the documentation site because community posts are less formal and have even more agility than pages on the documentation site.
-
+You may access this in Markdown format at .\03-sample-assets\cloud-compiler-quickstart.md
