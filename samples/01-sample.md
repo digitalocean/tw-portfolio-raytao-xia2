@@ -6,6 +6,7 @@
 ## Cover Sheet (keep to 1–2 sentences per item)
 **Collaboration (SME?):**  
 CTO, Marketing, Cloud Team Lead, Cloud Team UX Engineer
+Cloud Team Lead and UX engineer review for technical accuracy. CTO and Marketing review for alignment with the goals of the company.
 
 **Editing by others:**  
 None

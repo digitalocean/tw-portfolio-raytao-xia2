@@ -5,7 +5,8 @@
 
 ## Cover Sheet (keep to 1–2 sentences per item)
 **Collaboration (SME?):**  
-CTO, Marketing, Cloud Software Lead
+CTO, Marketing, Cloud Team Lead
+Cloud Software Lead reviews for technical accuracy. CTO and Marketing reviewed for final approval and to include into other marketing campaigns.
 
 **Editing by others:**  
 Marketing

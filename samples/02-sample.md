@@ -6,6 +6,7 @@
 ## Cover Sheet (keep to 1–2 sentences per item)
 **Collaboration (SME?):**  
 Product Manager, Hardware Engineer, Software Engineer, Firmware Engineer
+Engineers review for technical accuracy. Always met them in 1:1 meetings. Product Manager reviewed for business goals and final approval
 
 **Editing by others:**  
 None
