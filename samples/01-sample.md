@@ -17,7 +17,7 @@ Current and prospective users, Large Language Models, third-party team leads
 Believe it or not, the screenshots are partially automated. I learned to combine browser automation tools and agents, such as playwright and ChatGPT Agent mode, with Javascript to capture documentation-site friendly screenshots while keeping up with rapid software development cycles.
 
 **How I measured success (and outcome):**  
-Page views and significantly less issues raised regarding Workspace functionality by both humans and robots.
+Page views and significantly less issues raised regarding Workspaces functionality.
 
 **Anything else to know:**  
 A vast majority of the documentation site was personally written by me. There are a few sections that have been written by engineers but formatted to fit GitBook-style markdown; those sections are deprioritized so that I may focus on other responsibilities.
