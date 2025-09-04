@@ -1,0 +1,37 @@
+[
+  {
+    "local": "login-page.png",
+    "url": "https://us1.discourse-cdn.com/flex015/uploads/degirum/original/1X/08df99397cc5899945c8934331e64c8fcd1f37d2.png",
+    "alt": "Login Page"
+  },
+  {
+    "local": "workspace-selector.png",
+    "url": "https://us1.discourse-cdn.com/flex015/uploads/degirum/original/1X/e77c9ce0619c93e94a3e1996cdba25084706796c.png",
+    "alt": "Workspace Selector without a Workspace"
+  },
+  {
+    "local": "early-access-request.png",
+    "url": "https://us1.discourse-cdn.com/flex015/uploads/degirum/original/1X/b28aa607550c1edc24e29b6013f3f8a4dd4ece17.png",
+    "alt": "Cloud Compiler Early Access Request"
+  },
+  {
+    "local": "private-model-zoos.png",
+    "url": "https://us1.discourse-cdn.com/flex015/uploads/degirum/original/1X/4cccc1e53939a6983ec059bbebe96b2a446cd119.png",
+    "alt": "Private Model Zoos"
+  },
+  {
+    "local": "cloud-compiler-form.png",
+    "url": "https://us1.discourse-cdn.com/flex015/uploads/degirum/original/1X/18c68bb28c4caa6e2b2f621e03af44aa92376bb8.png",
+    "alt": "Cloud Compiler Form"
+  },
+  {
+    "local": "compiled-model-in-model-zoo.png",
+    "url": "https://us1.discourse-cdn.com/flex015/uploads/degirum/original/1X/23cdd5dd14c2a8c519b31179bf50dc9faa986e72.png",
+    "alt": "Compiled Model in a Model Zoo"
+  },
+  {
+    "local": "inference-dashboard-compiled-model.jpeg",
+    "url": "https://us1.discourse-cdn.com/flex015/uploads/degirum/original/1X/d9b47ecec0cdb50d1b826d49f2a6fd6bb23b7221.jpeg",
+    "alt": "Inference Dashboard with a Compiled Model"
+  }
+]
